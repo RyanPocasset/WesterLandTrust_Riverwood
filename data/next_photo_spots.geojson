@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "next_photo_spots",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-07,
+"features": [
+{ "type": "Feature", "properties": { "spot": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.7906608, 41.3925828 ] } },
+{ "type": "Feature", "properties": { "spot": 2 }, "geometry": { "type": "Point", "coordinates": [ -71.7913006, 41.392162 ] } },
+{ "type": "Feature", "properties": { "spot": 3 }, "geometry": { "type": "Point", "coordinates": [ -71.7955111, 41.3927351 ] } },
+{ "type": "Feature", "properties": { "spot": 4 }, "geometry": { "type": "Point", "coordinates": [ -71.7934318, 41.386076 ] } },
+{ "type": "Feature", "properties": { "spot": 5 }, "geometry": { "type": "Point", "coordinates": [ -71.7941294, 41.3925886 ] } },
+{ "type": "Feature", "properties": { "spot": 6 }, "geometry": { "type": "Point", "coordinates": [ -71.7902737, 41.3877288 ] } },
+{ "type": "Feature", "properties": { "spot": 7 }, "geometry": { "type": "Point", "coordinates": [ -71.7850247, 41.3894321 ] } },
+{ "type": "Feature", "properties": { "spot": 8 }, "geometry": { "type": "Point", "coordinates": [ -71.790578, 41.3920444 ] } },
+{ "type": "Feature", "properties": { "spot": 9 }, "geometry": { "type": "Point", "coordinates": [ -71.7901791, 41.3911084 ] } },
+{ "type": "Feature", "properties": { "spot": 10 }, "geometry": { "type": "Point", "coordinates": [ -71.7937536, 41.3866086 ] } }
+]
+}
